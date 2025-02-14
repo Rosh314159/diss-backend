@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+venv/
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment Variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build output
+build/
+dist/
+
+# Logs
+logs/
+*.log
+
+#ML models
+#*.joblib
+
+#CSV files
+#*.csv
+
+
+*.jpg
+*.png
